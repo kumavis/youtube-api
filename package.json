@@ -37,6 +37,6 @@
     "url": "https://github.com/IonicaBizau/youtube-api/issues"
   },
   "dependencies": {
-    "googleapis": "1.0.6"
+    "googleapis": "14.2.0"
   }
 }
